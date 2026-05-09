@@ -28,43 +28,21 @@
 
 ### 🚀 Featured Projects
 
-<!-- Fixed the image links using GitHub Readme Stats for a cleaner left-aligned look -->
+<!-- Using standard Markdown links for better stability and left alignment -->
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/pablomrtinezzz/Steganography-Detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pablomrtinezzz&repo=Steganography-Detection&theme=dark&title_color=276DC3&icon_color=276DC3&bg_color=0d1117&hide_border=false" width="400" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/DACD-Daniel-y-Pablo/LiveSportsPromo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DACD-Daniel-y-Pablo&repo=LiveSportsPromo&theme=dark&title_color=276DC3&icon_color=276DC3&bg_color=0d1117&hide_border=false" width="400" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/pablomrtinezzz/BlindCreators">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pablomrtinezzz&repo=BlindCreators&theme=dark&title_color=276DC3&icon_color=276DC3&bg_color=0d1117&hide_border=false" width="400" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/pablomrtinezzz/Rastreador">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pablomrtinezzz&repo=Rastreador&theme=dark&title_color=276DC3&icon_color=276DC3&bg_color=0d1117&hide_border=false" width="400" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![Steganography Detection](https://github-readme-stats.vercel.app/api/pin/?username=pablomrtinezzz&repo=Steganography-Detection&theme=dark&title_color=276DC3&icon_color=276DC3&bg_color=0d1117&hide_border=false)](https://github.com/pablomrtinezzz/Steganography-Detection)
+[![LiveSportsPromo](https://github-readme-stats.vercel.app/api/pin/?username=DACD-Daniel-y-Pablo&repo=LiveSportsPromo&theme=dark&title_color=276DC3&icon_color=276DC3&bg_color=0d1117&hide_border=false)](https://github.com/DACD-Daniel-y-Pablo/LiveSportsPromo)
+
+[![BlindCreators](https://github-readme-stats.vercel.app/api/pin/?username=pablomrtinezzz&repo=BlindCreators&theme=dark&title_color=276DC3&icon_color=276DC3&bg_color=0d1117&hide_border=false)](https://github.com/pablomrtinezzz/BlindCreators)
+[![Rastreador](https://github-readme-stats.vercel.app/api/pin/?username=pablomrtinezzz&repo=Rastreador&theme=dark&title_color=276DC3&icon_color=276DC3&bg_color=0d1117&hide_border=false)](https://github.com/pablomrtinezzz/Rastreador)
 
 ---
 
-### 🌐 Connect with me 
+### 🌐 Contact & Social Media
+*Feel free to reach out for collaborations or networking!*
 
 <a href="https://linkedin.com/in/pablomrtinezzz"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 <a href="mailto:pablomrtinezzz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> 
-
-
 <a href="https://paypal.me/pablomrtinezzz"><img src="https://img.shields.io/badge/Support_my_work-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
 
 <br>
