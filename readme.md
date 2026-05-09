@@ -15,10 +15,11 @@
 
 ---
 
+<!-- Increased the text size for the Tech Stack categories by using h3 instead of p and strong tags -->
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <p><strong>Data Science & Machine Learning</strong></p>
+  <h3>Data Science & Machine Learning</h3>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -30,7 +31,7 @@
 
   <br>
 
-  <p><strong>Software Engineering & Cloud</strong></p>
+  <h3>Software Engineering & Cloud</h3>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
@@ -41,11 +42,32 @@
 
   <br>
 
-  <p><strong>Databases & Tools</strong></p>
+  <h3>Databases & Tools</h3>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</div>
+
+---
+
+<!-- Added the new Projects section using GitHub Readme Stats cards to display them elegantly -->
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/pablomrtinezzz/Steganography-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pablomrtinezzz&repo=Steganography-Detection&theme=transparent&title_color=276DC3&text_color=ffffff&icon_color=276DC3&bg_color=0d1117&hide_border=true" alt="Steganography Detection" />
+  </a>
+  <a href="https://github.com/DACD-Daniel-y-Pablo/LiveSportsPromo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DACD-Daniel-y-Pablo&repo=LiveSportsPromo&theme=transparent&title_color=276DC3&text_color=ffffff&icon_color=276DC3&bg_color=0d1117&hide_border=true" alt="LiveSportsPromo" />
+  </a>
+  <br><br>
+  <a href="https://github.com/pablomrtinezzz/BlindCreators">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pablomrtinezzz&repo=BlindCreators&theme=transparent&title_color=276DC3&text_color=ffffff&icon_color=276DC3&bg_color=0d1117&hide_border=true" alt="BlindCreators" />
+  </a>
+  <a href="https://github.com/pablomrtinezzz/Rastreador">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pablomrtinezzz&repo=Rastreador&theme=transparent&title_color=276DC3&text_color=ffffff&icon_color=276DC3&bg_color=0d1117&hide_border=true" alt="Rastreador" />
+  </a>
 </div>
 
 ---
