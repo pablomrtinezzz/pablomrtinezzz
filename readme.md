@@ -50,14 +50,10 @@
 
 ---
 
-
 <div align="center">
-  <a href="https://linkedin.com/in/pablomrtinezzz"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:pablomrtinezzz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  &nbsp;|&nbsp; 
-  <a href="https://paypal.me/pablomrtinezzz"><img src="https://img.shields.io/badge/Support_my_work-00457C?style=flat&logo=paypal&logoColor=white" alt="PayPal"></a>
-</div>
-
-<div align="right">
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=pablomrtinezzz&icon=6&color=0" alt="Profile Views"></a>
+  <a href="https://linkedin.com/in/pablomrtinezzz"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:pablomrtinezzz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://paypal.me/pablomrtinezzz"><img src="https://img.shields.io/badge/Support_my_work-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=pablomrtinezzz&label=Profile%20Views&color=276DC3&style=flat" alt="Profile Views">
 </div>
