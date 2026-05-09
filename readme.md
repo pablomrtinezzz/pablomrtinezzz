@@ -4,7 +4,6 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=276DC3&center=true&vCenter=true&width=600&lines=Building+Data-Driven+Solutions;Optimizing+Machine+Learning+Pipelines;Extracting+Actionable+Business+Insights" alt="Typing SVG" />
 </div>
-
 ---
 
 ### 👨‍💻 About Me
