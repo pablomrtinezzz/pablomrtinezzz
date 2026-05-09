@@ -28,13 +28,10 @@
 
 ### 🚀 Featured Projects
 
-<!-- Using standard Markdown links for better stability and left alignment -->
-
-[![Steganography Detection](https://github-readme-stats.vercel.app/api/pin/?username=pablomrtinezzz&repo=Steganography-Detection&theme=dark&title_color=276DC3&icon_color=276DC3&bg_color=0d1117&hide_border=false)](https://github.com/pablomrtinezzz/Steganography-Detection)
-[![LiveSportsPromo](https://github-readme-stats.vercel.app/api/pin/?username=DACD-Daniel-y-Pablo&repo=LiveSportsPromo&theme=dark&title_color=276DC3&icon_color=276DC3&bg_color=0d1117&hide_border=false)](https://github.com/DACD-Daniel-y-Pablo/LiveSportsPromo)
-
-[![BlindCreators](https://github-readme-stats.vercel.app/api/pin/?username=pablomrtinezzz&repo=BlindCreators&theme=dark&title_color=276DC3&icon_color=276DC3&bg_color=0d1117&hide_border=false)](https://github.com/pablomrtinezzz/BlindCreators)
-[![Rastreador](https://github-readme-stats.vercel.app/api/pin/?username=pablomrtinezzz&repo=Rastreador&theme=dark&title_color=276DC3&icon_color=276DC3&bg_color=0d1117&hide_border=false)](https://github.com/pablomrtinezzz/Rastreador)
+*   **[Steganography Detection](https://github.com/pablomrtinezzz/Steganography-Detection)** — _Advanced ML model to identify hidden data within digital images._
+*   **[LiveSportsPromo](https://github.com/DACD-Daniel-y-Pablo/LiveSportsPromo)** — _Marketing analytics tool designed for real-time sports promotion optimization._
+*   **[BlindCreators](https://github.com/pablomrtinezzz/BlindCreators)** — _Accessibility-focused platform for content creators._
+*   **[Rastreador](https://github.com/pablomrtinezzz/Rastreador)** — _Data engineering pipeline for automated web tracking and analysis._
 
 ---
 
