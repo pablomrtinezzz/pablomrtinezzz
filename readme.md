@@ -22,13 +22,6 @@ Welcome to my GitHub! I am a Data Science and Engineering student passionate abo
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=pablomrtinezzz&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pablomrtinezzz&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages" />
-</div>
-
 <br>
 
 ---
