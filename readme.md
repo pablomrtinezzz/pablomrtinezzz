@@ -31,7 +31,7 @@
 *   **[Steganography Detection](https://github.com/pablomrtinezzz/Steganography-Detection)** — _Advanced ML model to identify hidden data within digital images._
 *   **[LiveSportsPromo](https://github.com/DACD-Daniel-y-Pablo/LiveSportsPromo)** — _Marketing analytics tool designed for real-time sports promotion optimization._
 *   **[BlindCreators](https://github.com/pablomrtinezzz/BlindCreators)** — _Accessibility-focused platform for content creators._
-*   **[Rastreador](https://github.com/pablomrtinezzz/Rastreador)** — _Data engineering pipeline for automated web tracking and analysis._
+*   **[Flight Tracker](https://github.com/pablomrtinezzz/Flight_tracker)** — _Data engineering pipeline for automated web tracking and analysis._
 
 ---
 
