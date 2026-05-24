@@ -3,20 +3,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=276DC3&center=false&vCenter=true&width=600&lines=Building+Data-Driven+Solutions;Optimizing+Machine+Learning+Pipelines;Extracting+Actionable+Business+Insights" alt="Typing SVG" />
 
----
+> 🚀 **Professional Portfolio:** [pablomrtinezzz.vercel.app](https://pablomrtinezzz.vercel.app) 
 
-> 🚀 **Professional Portfolio:** [pablomrtinezzz.vercel.app](https://pablomrtinezzz.vercel.app)
-> 
-> I bridge the gap between raw data and actionable business strategies. As a Data & Automation Specialist, I transform scattered metrics into fully automated systems.
-> 
-> **Specialties:**
-> * 📊 Executive Dashboards (Looker Studio)
-> * 🐍 Custom API Integrations & Web Scraping (Python)
-> * 📈 Marketing Analytics & Business Intelligence
-> 
-> *Stop wasting hours on manual spreadsheets. Let's automate your data flow so you can focus on driving real business growth. Send me a message and let's discuss your project!*
-
----
 
 ### 👨‍💻 About Me
 * 📊 **Focus:** Extracting actionable business insights from raw data and applying advanced optimization algorithms.
